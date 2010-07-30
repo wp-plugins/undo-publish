@@ -5,7 +5,7 @@ Plugin Name: Undo Publish
 Plugin URI: http://ign.com.uy/2010/wordpress-plugin-undo-publish
 Author: ign
 Author URI: http://ign.com.uy
-Version: 0.1
+Version: 0.2
 */
 
 
