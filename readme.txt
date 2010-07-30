@@ -4,7 +4,7 @@ Tags: posts
 Donate Link: http://ign.com.uy
 Requires at least: 3.0
 Tested up to: 3.0.1
-Stable tag: 0.1
+Stable tag: 0.2
 
 Undo Publish let's you stop posts from being published for a few seconds after publishing.
 
